@@ -1,5 +1,6 @@
 # Telecom-churn---Classification
 
+![Image rep](https://github.com/KunalKanade22/KunalKanade22/blob/main/Image%20rep/telecom.jpeg)
 
 Telecom Churn Case Study with Decision Tree
 A “churn” is a term used majorly in service industries that refers to attrition, a customer shift from one service provider to other due to many reasons. Many industries like Telecom, Media, Insurance, and other subscription-based company do analysis to reduce churn. For Assessment, Telecom data from IBM containing 21 attributes of 7,043 telecommunication customers were provided for analysis (Kaggle,2020). 
